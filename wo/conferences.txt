@@ -1,0 +1,308 @@
+计算机系统与高性能计算,A,1,ASPLOS,Architectural Support for Programming Languages and Operating Systems,http://www.acm.org/pubs/contents/proceedings/series/asplos
+计算机系统与高性能计算,A,2,FAST,Conference on File and Storage Technologies,http://www.usenix.org/events/bytopic/fast.html
+计算机系统与高性能计算,A,3,HPCA,High-Performance Computer Architecture,http://www.ece.arizona.edu/~hpca/
+计算机系统与高性能计算,A,4,ISCA,International Symposium on Computer Architecture,http://www.acm.org/pubs/contents/proceedings/series/isca/
+计算机系统与高性能计算,A,5,MICRO,MICRO,http://www.microarch.org/
+计算机系统与高性能计算,B,1,HOT CHIPS,A Symposium on High Performance Chips,http://www.hotchips.org/
+计算机系统与高性能计算,B,2,SPAA,ACM Symposium on Parallelism in Algorithms and Architectures,http://www.cs.jhu.edu/~spaa/
+计算机系统与高性能计算,B,3,PODC,ACM Symposium on Principles of Distributed Computing,http://www.podc.org/
+计算机系统与高性能计算,B,4,CGO,Code Generation and Optimization,http://www.cgo.org/
+计算机系统与高性能计算,B,5,DAC,Design Automation Conference,http://www.dac.com/conference+program.aspx
+计算机系统与高性能计算,B,6,DATE,Design, Automation & Test in Europe Conference,http://www.date-conference.com/
+计算机系统与高性能计算,B,7,EuroSys,EuroSys,http://www.eurosys.org/
+计算机系统与高性能计算,B,8,HPDC,High-Performance Distributed Computing,http://www.hpdc.org/
+计算机系统与高性能计算,B,9,SC,International Conference for High Performance Computing, Networking, Storage, and Analysis,http://www.supercomp.org/
+计算机系统与高性能计算,B,10,ICCD,International Conference on Computer Design,http://www.iccd-conference.org/
+计算机系统与高性能计算,B,11,ICCAD,International Conference on Computer-Aided Design,http://www.iccad.com/
+计算机系统与高性能计算,B,12,ICDCS,International Conference on Distributed Computing Systems,http://www.temple.edu/cis/icdcs2013/
+计算机系统与高性能计算,B,13,HiPEAC,International Conference on High Performance and Embedded Architectures and Compilers,http://www.hipeac.net/conference/
+计算机系统与高性能计算,B,14,SIGMETRICS,International Conference on Measurement and Modeling of Computer Systems,http://www.sigmetrics.org/sigmetrics2012/
+计算机系统与高性能计算,B,15,ICPP,International Conference on Parallel Processing,http://icpp2013.ens-lyon.fr/
+计算机系统与高性能计算,B,16,ICS,International Conference on Supercomputing,http://www.ics-conference.org/
+计算机系统与高性能计算,B,17,IPDPS,International Parallel & Distributed Processing Symposium,http://www.ipdps.org/
+计算机系统与高性能计算,B,18,FPGA,ACM/SIGDA International Symposium on Field-Programmable Gate Arrays,http://fpganetworks.org/FPGA2013/
+计算机系统与高性能计算,B,19,Performance,International Symposium on Computer Performance, Modeling, Measurements and Evaluation,http://www.sigmetrics.org/sigmetrics2012/index.php
+计算机系统与高性能计算,B,20,LISA,Large Installation system Administration Conference,https://www.usenix.org/conference/lisa12
+计算机系统与高性能计算,B,21,MSST,Mass Storage Systems and Technologies,http://storageconference.org/
+计算机系统与高性能计算,B,22,PACT,Parallel Architectures and Compilation Techniques,http://www.pactconf.org/
+计算机系统与高性能计算,B,23,PPoPP,Principles and Practice of Parallel Programming,http://ppopp2013.ics.uci.edu/
+计算机系统与高性能计算,B,24,RTAS,Real-Time and Embedded Technology and Applications Symposium,http://www.rtas.org/
+计算机系统与高性能计算,B,25,USENIX ATC,USENIX Annul Technical Conference,https://www.usenix.org/conferences/byname/131
+计算机系统与高性能计算,B,26,VEE,Virtual Execution Environments,http://www.sigplan.org/vee.htm
+计算机系统与高性能计算,C,1,CF,ACM International Conference on Computing Frontiers,http://www.computingfrontiers.org/2012/
+计算机系统与高性能计算,C,2,NOCS,ACM/IEEE International Symposium on Networks-on-Chip,http://www.nocsymposium.org/
+计算机系统与高性能计算,C,3,ASP-DAC,Asia and South Pacific Design Automation Conference,http://www.aspdac.com/aspdac2013/index.html
+计算机系统与高性能计算,C,4,ASAP,Application-Specific Systems, Architectures, and Processors,http://asap-conference.org/
+计算机系统与高性能计算,C,5,CLUSTER,Cluster Computing,http://www.clustercomp.org/
+计算机系统与高性能计算,C,6,CCGRID,Cluster Computing and the Grid,http://www.buyya.com/ccgrid/
+计算机系统与高性能计算,C,7,Euro-Par,European Conference on Parallel and Distributed Computing,http://www.europar2013.org/
+计算机系统与高性能计算,C,8,ETS,European Test Symposium,http://www.ieee-ets.org/
+计算机系统与高性能计算,C,9,FPL,Field Programmable Logic and Applications,http://ce.et.tudelft.nl/FPL/
+计算机系统与高性能计算,C,10,FCCM,Field-Programmable Custom Computing Machines,http://www.fccm.org/
+计算机系统与高性能计算,C,11,GLSVLSI,Great Lakes Symposium on VLSI Systems,http://www.glsvlsi.org/index.html
+计算机系统与高性能计算,C,12,HPCC,IEEE International Conference on High Performance Computing and Communications,http://trust.csu.edu.cn/conference/hpcc2013/
+计算机系统与高性能计算,C,13,MASCOTS,IEEE International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems,http://mascots.cs.vt.edu/mascots2012/
+计算机系统与高性能计算,C,14,NPC,IFIP International Conference on Network and Parallel Computing,http://grid.hust.edu.cn/npc2013/
+计算机系统与高性能计算,C,15,ICA3PP,International Conference on Algorithms and Architectures for Parallel Processing,http://anss.org.au/ica3pp12/
+计算机系统与高性能计算,C,16,CASES,International Conference on Compilers, Architectures, and Synthesis for Embedded Systems,http://esweek.acm.org/cases/
+计算机系统与高性能计算,C,17,FPT,International Conference on Field-Programmable Technology,http://www.icfpt.org/
+计算机系统与高性能计算,C,18,CODES +ISSS,International Conference on Hardware/Software Codesign & System Synthesis,http://www.codes-isss.org/
+计算机系统与高性能计算,C,19,HiPC,International Conference on High Performance Computing,http://www.hipc.org/
+计算机系统与高性能计算,C,20,ICPADS,International Conference on Parallel and Distributed Systems,http://pdcc.ntu.edu.sg/icpads2012/
+计算机系统与高性能计算,C,21,ISCAS,International Symposium on Circuits and Systems,http://iscas2013.org/
+计算机系统与高性能计算,C,22,ISLPED,International Symposium on Low Power Electronics and Design,http://www.islped.org/2012/index.html
+计算机系统与高性能计算,C,23,ISPD,International Symposium on Physical Design,http://www.ispd.cc/
+计算机系统与高性能计算,C,24,ITC,International Test Conference,http://www.itctestweek.org/
+计算机系统与高性能计算,C,25,Hot Interconnects,Symposium on High-Performance Interconnects,http://www.hoti.org/
+计算机系统与高性能计算,C,26,VTS,VLSI Test Symposium,http://www.tttc-vts.org/
+计算机网络,A,1,MOBICOM,ACM International Conference on Mobile Computing and Networking,http://www.sigmobile.org/mobicom/ 
+计算机网络,A,2,SIGCOMM,ACM International Conference on the applications, technologies, architectures, and protocols for computer communication,http://www.sigcomm.org/ 
+计算机网络,A,3,INFOCOM,IEEE International Conference on Computer Communications,http://www.ieee-infocom.org/ 
+计算机网络,B,2,CoNEXT,ACM International Conference on emerging Networking EXperiments and Technologies,http://conferences.sigcomm.org/co-next/2013/ 
+计算机网络,B,3,SECON,IEEE Communications Society Conference on Sensor and Ad Hoc Communications and Networks,http://www.ieee-secon.org/ 
+计算机网络,B,4,IPSN,International Conference on Information Processing in Sensor Networks,http://ipsn.acm.org/2013/ 
+计算机网络,B,5,ICNP,International Conference on Network Protocols,http://www.ieee-icnp.org/ 
+计算机网络,B,6,MobiHoc,International Symposium on Mobile Ad Hoc Networking and Computing,http://www.sigmobile.org/mobihoc/ 
+计算机网络,B,7,MobiSys,International Conference on Mobile Systems, Applications, and Services,http://www.sigmobile.org/mobisys/ 
+计算机网络,B,8,IWQoS,International Workshop on Quality of Service,http://www.ieee-iwqos.org/ 
+计算机网络,B,9,IMC,Internet Measurement Conference,http://www.sigcomm.org/events/imc-conference 
+计算机网络,B,10,NOSSDAV,Network and Operating System Support for Digital Audio and Video,http://www.nossdav.org/ 
+计算机网络,B,11,NSDI,Symposium on Network System Design and Implementation,http://www.sigcomm.org/events/nsdi-conference 
+计算机网络,C,1,ANCS,Architectures for Networking and Communications Systems,http://www.ancsconf.org/ 
+计算机网络,C,2,FORTE,Formal Techniques for Networked and Distributed Systems,http://forte13.sosy-lab.org/ 
+计算机网络,C,3,LCN,IEEE Conference on Local Computer Networks,http://www.ieeelcn.org/ 
+计算机网络,C,4,Globecom,IEEE Global Communications Conference, incorporating the Global Internet Symposium,http://www.ieee-globecom.org/ 
+计算机网络,C,5,ICC,IEEE International Conference on Communications,http://www.ieee-icc.org/ 
+计算机网络,C,6,ICCCN,IEEE International Conference on Computer Communications and Networks,http://icccn.org/icccn13/ 
+计算机网络,C,7,MASS,IEEE International Conference on Mobile Ad hoc and Sensor Systems,http://edas.info/web/ieeemass2012/ 
+计算机网络,C,8,P2P,IEEE International Conference on P2P Computing,http://www.p2p13.org/ 
+计算机网络,C,9,IPCCC,IEEE International Performance Computing and Communications Conference,http://www.ipccc.org/ 
+计算机网络,C,10,WoWMoM,IEEE International Symposium on a World of Wireless Mobile and Multimedia Networks,http://www.ieee-wowmom.org/ 
+计算机网络,C,11,ISCC,IEEE Symposium on Computers and Communications,http://www.ieee-iscc.org/ 
+计算机网络,C,12,WCNC,IEEE Wireless Communications & Networking Conference,http://www.ieee-wcnc.org/ 
+计算机网络,C,13,Networking,IFIP International Conferences on Networking,http://networking2013.poly.edu/ 
+计算机网络,C,14,IM,IFIP/IEEE International Symposium on Integrated Network Management,http://www.im2013.org/ 
+计算机网络,C,15,MSWiM,International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems,http://mswimconf.com/2012/ 
+计算机网络,C,16,NOMS,Asia-Pacific Network Operations and Management Symposium,http://www.apnoms.org/2012/ 
+计算机网络,C,17,HotNets,The Workshop on Hot Topics in Networks,http://www.sigcomm.org/events/hotnets-workshop/ 
+网络与信息安全,A,1,CCS,ACMConferenceonComputerand CommunicationsSecurity,http://www.acm.org/sigs/sigsac/ccs/
+网络与信息安全,A,2,CRYPTO,International Cryptology Conference,http://www.iacr.org/conferences/
+网络与信息安全,A,3,EUROCRYPT,European Cryptology Conference,http://www.iacr.org/conferences/
+网络与信息安全,A,4,S&P,IEEESymposiumonSecurityandPrivacy,http://www.ieee-security.org/TC/SP-Index.html
+网络与信息安全,A,5,USENIX Security,Usenix Security Symposium,https://www.usenix.org/conference/
+网络与信息安全,B,1,ACSAC,Annual Computer Security Applications Conference,http://www.acsac.org/
+网络与信息安全,B,2,ASIACRYPT,Annual International Conference on the Theory and Application of Cryptology and Information Security,http://www.iacr.org/conferences/
+网络与信息安全,B,3,ESORICS,EuropeanSymposiumonResearchin ComputerSecurity,http://esorics2013.isg.rhul.ac.uk/
+网络与信息安全,B,4,FSE,Fast Software Encryption,http://fse2013.spms.ntu.edu.sg/
+网络与信息安全,B,5,NDSS,ISOC Network and Distributed System Security Symposium,http://www.isoc.org/isoc/conferences/ndss/
+网络与信息安全,B,6,CSFW,IEEE Computer Security Foundations Workshop,http://www.ieee-security.org/CSFWweb/
+网络与信息安全,B,7,RAID,International Symposium on Recent Advances in Intrusion Detection,http://www.raid-symposium.org/
+网络与信息安全,B,8,PKC,International Workshop on Practice and Theory in Public Key Cryptography,http://ohta-lab.jp/pkc2013/
+网络与信息安全,B,9,DSN,The International Conference on Dependable Systems and Networks,http://www.dsn.org/
+网络与信息安全,B,10,TCC,Theory of Cryptography Conference,http://tcc2013.com/
+网络与信息安全,B,11,SRDS,IEEE International Symposium on Reliable Distributed Systems,http://web.mst.edu/~cswebdb/srds2012/
+网络与信息安全,B,12,CHES,Workshop on Cryptographic Hardware and Embedded Systems,http://www.chesworkshop.org/
+网络与信息安全,C,1,WiSec,ACM Conference on Security and Privacy inWireless and Mobile Networks,http://www.sigsac.org/wisec/
+网络与信息安全,C,2,ACM MM&SEC,ACM Multimedia and Security Workshop,http://www.mmsec12.com/
+网络与信息安全,C,3,SACMAT,ACM Symposium on Access Control Models and Technologies,http://www.sacmat.org/
+网络与信息安全,C,4,ASIACCS,ACM Symposium on Information, Computer and Communications Security,http://dsns.csie.nctu.edu.tw/asiaccs/
+网络与信息安全,C,5,DRM,ACM Workshop on Digital Rights Management,http://drm11.cased.de/
+网络与信息安全,C,6,ACNS,Applied Cryptography and Network Security,http://www.geocities.com/acns_home/
+网络与信息安全,C,7,ACISP,AustralasiaConferenceonInformation Security andPrivacy,https://ssl.informatics.uow.edu.au/acisp2012/
+网络与信息安全,C,8,DFRWS,Digital Forensic Research Workshop,http://www.dfrws.org/
+网络与信息安全,C,9,FC,Financial Cryptography and Data Security,http://fc13.ifca.ai/
+网络与信息安全,C,10,DIMVA,Detection of Intrusions and Malware & Vulnerability Assessment,http://dimva.sec.t-labs.tu-berlin.de/
+网络与信息安全,C,11,SEC,IFIP International Information Security Conference,http://www.sec2013.org/
+网络与信息安全,C,12,IFIP WG 11.9,IFIP WG 11.9 International Conference on Digital Forensics,http://www.ifip119.org/Conferences/
+网络与信息安全,C,13,ISC,Information Security Conference,http://web.sec.uni-passau.de/isc2012/
+网络与信息安全,C,14,Secure Comm,International Conference on Security and Privacy in Communication Networks,http://www.securecomm.org/
+网络与信息安全,C,15,NSPW,New Security Paradigms Workshop,http://www.nspw.org/current/
+网络与信息安全,C,16,CT-RSA,RSA Conference, Cryptographers' Track,http://conf.isi.qut.edu.au/ct-rsa2013/
+网络与信息安全,C,17,SOUPS,Symposium On Usable Privacy and Security,http://cups.cs.cmu.edu/soups/2013/
+网络与信息安全,C,18,HotSec,USENIX Workshop on Hot Topics in Security,http://www.usenix.org/events/
+网络与信息安全,C,19,SAC,Selected Areas in Cryptography,http://dblp.uni-trier.de/db/conf/sacrypt/
+网络与信息安全,C,20,TrustCom,IEEE International Conference on Trust, Security and Privacy in Computing andCommunications,http://www.scim.brad.ac.uk/~hmibrahi/TrustCom2012/
+软件工程、系统软件与程序设计语言,A,1,FSE/ESEC,ACM SIGSOFT Symposium on the Foundation of Software Engineering/ European Software Engineering Conference,http://esec-fse.inf.ethz.ch/
+软件工程、系统软件与程序设计语言,A,2,OOPSLA,Conference on Object-Oriented Programming Systems, Languages, and Applications,http://splashcon.org/2013/cfp/618
+软件工程、系统软件与程序设计语言,A,3,ICSE,International Conference on Software Engineering,http://www.icse-conferences.org/
+软件工程、系统软件与程序设计语言,A,4,OSDI,USENIX Symposium on Operating Systems Design and Implementations,http://www.usenix.org/event/osdi12
+软件工程、系统软件与程序设计语言,A,5,PLDI,ACM SIGPLAN Symposium on Programming Language Design & Implementation,http://pldi2013.ucombinator.org/
+软件工程、系统软件与程序设计语言,A,6,POPL,ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages,http://www.cse.psu.edu/popl/12
+软件工程、系统软件与程序设计语言,A,7,SOSP,ACM Symposium on Operating Systems Principles,http://sosp.org/
+软件工程、系统软件与程序设计语言,B,1,ECOOP,European Conference on Object-Oriented Programming,http://ecoop.org/
+软件工程、系统软件与程序设计语言,B,2,ETAPS,European Joint Conferences on Theory and Practice of Software,http://www.etaps.org/
+软件工程、系统软件与程序设计语言,B,3,FM,Formal Methods, World Congress,http://www.fmeurope.org/
+软件工程、系统软件与程序设计语言,B,4,ICPC,IEEE International Conference on Program Comprehension,http://icpc12.sosy-lab.org/
+软件工程、系统软件与程序设计语言,B,5,RE,IEEE International Requirement Engineering Conference,http://www.cin.ufpe.br/~re2013/
+软件工程、系统软件与程序设计语言,B,6,CAiSE,International Conference on Advanced Information Systems Engineering,http://www.pros.upv.es/index.php/en/home-caise2013
+软件工程、系统软件与程序设计语言,B,7,ASE,International Conference on Automated Software Engineering,http://ase2013.org/
+软件工程、系统软件与程序设计语言,B,8,ICFP,International Conf on Function Programming,http://icfpconference.org/icfp2013/
+软件工程、系统软件与程序设计语言,B,9,LCTES,International Conference on Languages, Compilers, Tools and Theory for Embedded Systems,http://www.dcs.gla.ac.uk/conferences/lctes13/
+软件工程、系统软件与程序设计语言,B,10,MoDELS,International Conference on Model Driven Engineering Languages and Systems,http://www.modelsconference.org/
+软件工程、系统软件与程序设计语言,B,11,CP,International Conference on Principles and Practice of Constraint Programming,http://cp2013.a4cp.org/
+软件工程、系统软件与程序设计语言,B,12,ICSOC,International Conference on Service Oriented Computing,http://www.icsoc.org/
+软件工程、系统软件与程序设计语言,B,13,ICSM,International. Conference on Software Maintenance,http://icsm2013.tue.nl/
+软件工程、系统软件与程序设计语言,B,14,VMCAI,International Conference on Verification, Model Checking, and Abstract Interpretation,http://lara.epfl.ch/vmcai2012/
+软件工程、系统软件与程序设计语言,B,15,ICWS,International Conference on Web Services （Research Track）,http://conferences.computer.org/icws/2013/
+软件工程、系统软件与程序设计语言,B,16,SAS,International Static Analysis Symposium,http://research.microsoft.com/en-us/events/sas2013/
+软件工程、系统软件与程序设计语言,B,17,ISSRE,International Symposium on Software Reliability Engineering,http://2012.issre.net/content/ieee-issre-2012-dallas-tx
+软件工程、系统软件与程序设计语言,B,18,ISSTA,International Symposium on Software Testing and Analysis,http://issta2013.inf.usi.ch/
+软件工程、系统软件与程序设计语言,B,19,Middleware,Conference on middleware,http://www.middleware-conference.org/
+软件工程、系统软件与程序设计语言,B,20,WCRE,Working Conference on Reverse Engineering,http://wcre.wikidot.com/2013
+软件工程、系统软件与程序设计语言,B,21,HotOS,USENIX Workshop on Hot Topics in Operating Systems,https://www.usenix.org/conference/hotos13/
+软件工程、系统软件与程序设计语言,C,1,PASTE,ACMSIGPLAN-SIGSOFTWorkshoponProgram AnalysisforSoftwareToolsandEngineering,http://dept.cs.williams.edu/PASTE2013/cfp.html
+软件工程、系统软件与程序设计语言,C,2,APLAS,Asian Symposium on Programming Languages and Systems,http://aplas12.kuis.kyoto-u.ac.jp/
+软件工程、系统软件与程序设计语言,C,3,APSEC,Asia-Pacific Software Engineering Conference,http://apsec2012.comp.polyu.edu.hk/
+软件工程、系统软件与程序设计语言,C,4,COMPSAC,International Computer Software and Applications Conference,http://compsac.cs.iastate.edu/
+软件工程、系统软件与程序设计语言,C,5,ICECCS,IEEE International Conference on Engineering of Complex Computer Systems,http://www.iceccs.org/
+软件工程、系统软件与程序设计语言,C,6,SCAM,IEEE International Working Conference on Source Code Analysis and Manipulation,http://www.ieee-scam.org/
+软件工程、系统软件与程序设计语言,C,7,ICFEM,International Conference on Formal Engineering Methods,http://www.cs.auckland.ac.nz/research/conferences/icfem2013/
+软件工程、系统软件与程序设计语言,C,8,TOOLS,International Conference on Objects, Models, Components, Patterns,http://tools.ethz.ch/
+软件工程、系统软件与程序设计语言,C,9,PEPM,ACM SIGPLAN Symposium on Partial Evaluation and Semantics Based Programming Manipulation,http://www.program-transformation.org/PEPM13
+软件工程、系统软件与程序设计语言,C,10,QSIC,International Conference on Quality Software,http://www.di.univaq.it/qsic2012/
+软件工程、系统软件与程序设计语言,C,11,SEKE,International Conference on Software Engineering and Knowledge Engineering,http://www.ksi.edu/seke/seke13.html
+软件工程、系统软件与程序设计语言,C,12,ICSR,International Conference on Software Reuse,http://www.icsrc.org/
+软件工程、系统软件与程序设计语言,C,13,ICWE,International Conference on Web Engineering,http://icwe2012.webengineering.org
+软件工程、系统软件与程序设计语言,C,14,SPIN,International SPIN Workshop on Model Checking of Software,http://spin2013.cs.sunysb.edu/
+软件工程、系统软件与程序设计语言,C,15,LOPSTR,International Symposium on Logic-based Program Synthesis and Transformation,http://www.cs.man.ac.uk/~kung-kiu/lopstr/
+软件工程、系统软件与程序设计语言,C,16,TASE,International Symposium on Theoretical Aspects of Software Engineering,http://selab.bjut.edu.cn/tase2012/
+软件工程、系统软件与程序设计语言,C,17,ICST,The IEEE International Conference on Software Testing, Verification and Validation,http://icst.org/
+软件工程、系统软件与程序设计语言,C,18,ATVA,International Symposium on Automated Technology for Verification and Analysis,http://www.iarcs.org.in/atva2012/
+软件工程、系统软件与程序设计语言,C,19,ESEM,International Symposium on Empirical Software Engineering and Measurement,http://esem-conferences.org/index.php
+软件工程、系统软件与程序设计语言,C,20,ISPASS,IEEE International Symposium on Performance Analysis of Systems and Software,http://ispass.org/
+软件工程、系统软件与程序设计语言,C,21,SCC,International Conference on Service Computing,http://conferences.computer.org/scc/2013/
+软件工程、系统软件与程序设计语言,C,22,ICSSP,International Conference on Software and System Process,http://www.icsp-conferences.org/index.html
+数据库、数据挖掘与内容检索,A,1,SIGMOD,ACM Conference on Management of Data,http://www.sigmod.org/
+数据库、数据挖掘与内容检索,A,2,SIGKDD,ACM Knowledge Discovery and Data Mining,http://www.acm.org/sigkdd/
+数据库、数据挖掘与内容检索,A,3,SIGIR,International Conference on Research an Development in Information Retrieval,http://www.acm.org/sigir/
+数据库、数据挖掘与内容检索,A,4,VLDB,International Conference on Very Large Data Bases,http://www.vldb.org
+数据库、数据挖掘与内容检索,A,5,ICDE,IEEE International Conference on Data Engineering,http://www.icde.org/
+数据库、数据挖掘与内容检索,B,1,CIKM,ACM International Conference on Information and Knowledge Management,http://www.cikm.org/
+数据库、数据挖掘与内容检索,B,2,PODS,ACM SIGMOD Conference on Principles of DB Systems,http://www.informatik.uni-trier.de/~ley/db/conf/icde/
+数据库、数据挖掘与内容检索,B,3,DASFAA,Database Systems for Advanced Applications,http://totemdb.whu.edu.cn/dasfaa2013/
+数据库、数据挖掘与内容检索,B,4,ECML-PKDD,European Conference on Principles and Practice of Knowledge Discovery in Databases,http://www.ecmlpkdd2013.org/
+数据库、数据挖掘与内容检索,B,5,ISWC,IEEE International Semantic Web Conference,http://iswc2013.semanticweb.org/
+数据库、数据挖掘与内容检索,B,6,ICDM,IEEE International Conference on Data Mining,http://www.cs.uvm.edu/~icdm/
+数据库、数据挖掘与内容检索,B,7,ICDT,International Conference on Database Theory,http://edbticdt2013.disi.unige.it/
+数据库、数据挖掘与内容检索,B,8,EDBT,International Conference on Extending DB Technology,http://edbticdt2013.disi.unige.it/
+数据库、数据挖掘与内容检索,B,9,CIDR,International Conference on Innovation Database Research,http://www.cidrdb.org/
+数据库、数据挖掘与内容检索,B,10,WWW,International World Wide Web Conferences,http://www2013.org/
+数据库、数据挖掘与内容检索,B,11,SDM,SIAM International Conference on Data Mining,http://www.siam.org/
+数据库、数据挖掘与内容检索,C,1,WSDM,ACM International Conference on Web Search and Data Mining,http://www.wsdm2011.org/
+数据库、数据挖掘与内容检索,C,2,DEXA,Database and Expert System Applications,http://www.dexa.org/
+数据库、数据挖掘与内容检索,C,3,ECIR,European Conference on IR Research,http://ecir2013.org/
+数据库、数据挖掘与内容检索,C,4,WebDB,International ACM Workshop on Web and Databases,http://webdb2013.lille.inria.fr/
+数据库、数据挖掘与内容检索,C,5,ER,International Conference on Conceptual Modeling,http://www.hkws.org/conference/ER2013/
+数据库、数据挖掘与内容检索,C,6,MDM,International Conference on Mobile Data Management,http://mdm2013.dico.unimi.it/
+数据库、数据挖掘与内容检索,C,7,SSDBM,International Conference on Scientific and Statistical DB Management,http://www.ssdbm.org/
+数据库、数据挖掘与内容检索,C,8,WAIM,International Conference on Web Age Information Management,http://idke.ruc.edu.cn/waim2013/
+数据库、数据挖掘与内容检索,C,9,SSTD,International Symposium on Spatial and Temporal Databases,http://sstd2013.dbs.ifi.lmu.de/
+数据库、数据挖掘与内容检索,C,10,PAKDD,Pacific-Asia Conference on Knowledge Discovery and Data Mining,http://pakdd2013.pakdd.org/
+数据库、数据挖掘与内容检索,C,11,APWeb,The Asia Pacific Web Conference,http://www.cse.unsw.edu.au/~apweb2013/
+数据库、数据挖掘与内容检索,C,12,WISE,Web Information Systems Engineering,http://www.wise2013.org/
+数据库、数据挖掘与内容检索,C,13,ESWC,Extended Semantic Web Conference,http://2012.eswc-conferences.org/
+计算机科学理论,A,1,STOC,ACM Symposium on Theory of Computing,http://www.sigact.org/stoc.html
+计算机科学理论,A,2,FOCS,IEEE Symposium on Foundations of Computer Science,http://ieee-focs.org/
+计算机科学理论,A,3,LICS,IEEE Symposium on Logic in Computer Science,http://www2.informatik.hu-berlin.de/lics/
+计算机科学理论,B,1,SoCG,ACM Symposium on Computational Geometry,http://www.uniriotec.br/~socg2013/
+计算机科学理论,B,2,SODA,ACM-SIAM Symposium on Discrete Algorithms,http://www.informatik.uni-trier.de/~ley/db/conf/soda/index.html
+计算机科学理论,B,3,CAV,Computer Aided Verification,http://cav2013.forsyte.at/
+计算机科学理论,B,4,CADE/IJCAR,Conference on Automated Deduction /The International Joint Conference on Automated Reasoning,http://www.cadeinc.org/Conferences.html
+计算机科学理论,B,5,CCC,IEEE Conference on Computational Complexity,http://computationalcomplexity.org/
+计算机科学理论,B,6,ICALP,International Colloquium on Automata, Languages and Programming,http://www.icalp2013.lu.lv/
+计算机科学理论,B,7,CONCUR,International Conference on Concurrency Theory,http://www.concur-conferences.org/concur2013/
+计算机科学理论,C,1,CSL,Computer Science Logic,http://www.informatik.uni-trier.de/~ley/db/conf/csl/index.html
+计算机科学理论,C,2,ESA,European Symposium on Algorithms,http://esa-symposium.org/
+计算机科学理论,C,3,FSTTCS,Foundations of Software Technology and Theoretical Computer Science,http://www.fsttcs.org/
+计算机科学理论,C,4,IPCO,International Conference on Integer Programming and Combinatorial Optimization,http://www.informatik.uni-trier.de/~ley/db/conf/ipco/index.html
+计算机科学理论,C,5,RTA,International Conference on Rewriting Techniques and Applications,http://rewriting.loria.fr/rta/
+计算机科学理论,C,6,ISAAC,International Symposium on Algorithms and Computation,http://www.csie.ntu.edu.tw/isaac2012
+计算机科学理论,C,7,MFCS,Mathematical Foundations of Computer Science,http://www.mfcs.sk/
+计算机科学理论,C,8,STACS,Symposium on Theoretical Aspects of Computer Science,http://www.stacs-conf.org/
+计算机科学理论,C,9,FMCAD,Formal Method in Computer-Aided Design,http://www.cs.utexas.edu/~hunt/FMCAD/FMCAD13/
+计算机科学理论,C,10,SAT,Theory and Applications of Satisfiability Testing,http://sat2013.cs.helsinki.fi/
+计算机图形学与多媒体,A,1,ICMR,ACM SIGMM International Conference on Multimedia Retrieval,http://impact.utc.edu/icmr2013/
+计算机图形学与多媒体,A,2,i3D,ACM Symposium on Interactive 3D Graphics,http://www.csee.umbc.edu/csee/research/vangogh/I3D2013/
+计算机图形学与多媒体,A,3,SCA,ACM/Eurographics Symposium on Computer Animation,http://www.cs.ubc.ca/~van/sca/sca.html
+计算机图形学与多媒体,A,4,DCC,Data Compression Conference,http://www.cs.brandeis.edu/~dcc/
+计算机图形学与多媒体,A,5,EG,Eurographics,http://www.eg.org/
+计算机图形学与多媒体,A,6,EuroVis,Eurographics Conference on Visualization,http://www.eurovis2013.de/
+计算机图形学与多媒体,A,7,SGP,Eurographics Symposium on Geometry Processing,http://www.ioc.ee/sgp12/
+计算机图形学与多媒体,A,8,EGSR,Eurographics Symposium on Rendering,http://webdiis.unizar.es/EGSR2013/
+计算机图形学与多媒体,A,9,ICME,IEEE International Conference on Multimedia &Expo,http://www.icme2012.org/
+计算机图形学与多媒体,A,10,PG,Pacific Graphics: The Pacific Conference on Computer Graphics and Applications,http://sweb.cityu.edu.hk/pg2012/
+计算机图形学与多媒体,A,11,SPM,Symposium on Solid and Physical Modeling,http://www.siam.org/meetings/gdspm13/
+计算机图形学与多媒体,B,1,CASA,Computer Animation and Social Agents,http://www.cs.bilkent.edu.tr/~casa2013/
+计算机图形学与多媒体,B,2,CGI,Computer Graphics International,http://cgi2013.welfenlab.de/ 
+计算机图形学与多媒体,B,3,ISMAR,International Symposium on Mixed and Augmented Reality,http://ismar.vgtc.org/
+计算机图形学与多媒体,B,4,PacificVis,IEEE Pacific Visualization Symposium,http://rp-www.cs.usyd.edu.au/~visual/pvis2013/welcome/index.php
+计算机图形学与多媒体,B,5,ICASSP,IEEE International Conference on Acoustics, Speech and SP,http://www.icassp2013.com/
+计算机图形学与多媒体,B,6,ICIP,International Conference on Image Processing,http://www.ieeeicip.org/
+计算机图形学与多媒体,B,7,MMM,International Conference on Multimedia Modeling,http://mmm2013.org/
+计算机图形学与多媒体,B,8,GMP,Geometric Modeling and Processing,http://math.ustc.edu.cn/Conference/GMP2012/
+计算机图形学与多媒体,B,9,PCM,Pacific-Rim Conference on Multimedia,http://cemnet.ntu.edu.sg/pcm2012/
+计算机图形学与多媒体,B,10,SMI,Shape Modeling International,http://www.shapemodeling.org/
+人工智能与模式识别,A,1,AAAI,AAAI Conference on Artificial Intelligence,http://www.aaai.org/
+人工智能与模式识别,A,2,CVPR,IEEE Conference on Computer Vision and Pattern Recognition,http://www.pamitc.org/cvpr13/
+人工智能与模式识别,A,3,ICCV,International Conference on Computer Vision,http://www.iccv2013.org/
+人工智能与模式识别,A,4,ICML,International Conference on Machine Learning,http://icml.cc/2013/
+人工智能与模式识别,A,5,IJCAI,International Joint Conference on Artificial Intelligence,http://www.ijcai.org/
+人工智能与模式识别,B,1,COLT,Annual Conference on Computational Learning Theory,http://orfe.princeton.edu/conferences/colt2013/
+人工智能与模式识别,B,2,NIPS,Annual Conference on Neural Information Processing Systems,http://www.nips.cc/
+人工智能与模式识别,B,3,ACL,Annual Meeting of the Association for Computational Linguistics,http://acl2013.org/site/index.html
+人工智能与模式识别,B,4,EMNLP,Conference on Empirical Methods in Natural Language Processing,http://www.sigdat.org/
+人工智能与模式识别,B,5,ECAI,European Conference on Artificial Intelligence,http://www.ecai2013.upit.ro/?i=2542
+人工智能与模式识别,B,6,ECCV,European Conference on Computer Vision,http://eccv2012.unifi.it/
+人工智能与模式识别,B,7,ICRA,IEEE International Conference on Robotics and Automation,http://www.icra2013.org/
+人工智能与模式识别,B,8,ICAPS,International Conference on Automated Planning and Scheduling,http://www.icaps-conference.org/
+人工智能与模式识别,B,9,ICCBR,International Conference on Case-Based Reasoning,http://www.iccbr.org/
+人工智能与模式识别,B,10,COLING,International Conference on Computational Linguistics,http://www.coling2008.org.uk/
+人工智能与模式识别,B,11,KR,International Conference on Principles of Knowledge Representation and Reasoning,http://www.kr.org/
+人工智能与模式识别,B,12,UAI,International Conference on Uncertainty in Artificial Intelligence,http://auai.org/
+人工智能与模式识别,B,13,AAMAS,International Joint Conference on Autonomous Agents and Multi-agent Systems,http://www.aamas-conference.org/
+人工智能与模式识别,C,1,ACCV,Asian Conference on Computer Vision,http://www.accv2012.org/
+人工智能与模式识别,C,2,CoNLL,Conference on Natural Language Learning,http://www.clips.ua.ac.be/conll/
+人工智能与模式识别,C,3,GECCO,Genetic and Evolutionary Computation Conference,http://www.sigevo.org/gecco-2013/
+人工智能与模式识别,C,4,ICTAI,IEEE International Conference on Tools with Artificial Intelligence,http://ictai12.unipi.gr/
+人工智能与模式识别,C,5,ALT,International Conference on Algorithmic Learning Theory,http://www-alg.ist.hokudai.ac.jp/~thomas/ALT13
+人工智能与模式识别,C,6,ICANN,International Conference on Artificial Neural Networks,https://www.waset.org/conferences/2013/amsterdam/icann/
+人工智能与模式识别,C,7,FGR,International Conference on Automatic Face and Gesture Recognition,http://fg2013.cse.sc.edu/
+人工智能与模式识别,C,8,ICDAR,International Conference on Document Analysis and Recognition,http://www.icdar2013.org/
+人工智能与模式识别,C,9,ILP,International Conference on Inductive Logic Programming,http://ilp13.cos.ufrj.br/
+人工智能与模式识别,C,10,KSEM,International conference on Knowledge Science,Engineering and Management,http://ksem.dlut.edu.cn/
+人工智能与模式识别,C,11,ICONIP,International Conference on Neural Information Processing,http://iconip2013.org/
+人工智能与模式识别,C,12,ICPR,International Conference on Pattern Recognition,http://www.icpr2014.org/
+人工智能与模式识别,C,13,ICB,International Joint Conference on Biometrics,http://atvs.ii.uam.es/icb2013/
+人工智能与模式识别,C,14,IJCNN,International Joint Conference on Neural Networks,http://www.ijcnn2013.org/
+人工智能与模式识别,C,15,PRICAI,Pacific Rim International Conference on Artificial Intelligence,http://ktw.mimos.my/pricai2012
+人工智能与模式识别,C,16,NAACL,The Annual Conference of the North American Chapter of the Association for Computational Linguistics,http://naacl2013.naacl.org/
+人工智能与模式识别,C,17,BMVC,British Machine Vision Conference,http://bmvc2013.bristol.ac.uk/
+人机交互与普适计算,A,1,CHI,ACM Conference on Human Factors in Computing Systems,http://sigchi.org/
+人机交互与普适计算,A,2,UbiComp,ACM International Conference on Ubiquitous Computing,http://www.ubicomp.org/ubicomp2013/
+人机交互与普适计算,B,1,CSCW,ACM Conference on Computer Supported Cooperative Work and Social Computing,http://cscw.acm.org/
+人机交互与普适计算,B,2,IUI,ACM International Conference on Intelligent User Interfaces,http:// iuiconf.org 
+人机交互与普适计算,B,3,ITS,ACM International Conference on Interactive Tabletops and Surfaces,http://its2013.org/
+人机交互与普适计算,B,4,UIST,ACM Symposium on User Interface Software and Technology,http://www.acm.org/uist/ 
+人机交互与普适计算,B,5,ECSCW,European Computer Supported Cooperative Work,http://www.ecscw.org/ 
+人机交互与普适计算,B,6,MobileHCI,International Conference on Human Computer Interaction with Mobile Devices and Services,http://www.mobilehci2013.org/ 
+人机交互与普适计算,C,1,GROUP,ACM Conference on Supporting Group Work,http://www.acm.org/conferences/group%3Cbr%3E/conferences/group12/
+人机交互与普适计算,C,2,ASSETS,ACM Conference on Supporting Group Work,http://www.sigaccess.org/assets12/ 
+人机交互与普适计算,C,3,DIS,ACM Conference on Designing Interactive Systems,http://www.dis2012.org/ 
+人机交互与普适计算,C,4,GI,Graphics Interface conference,http://www.graphicsinterface.org
+人机交互与普适计算,C,5,MobiQuitous,International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services,http://mobiquitous.org/ 
+人机交互与普适计算,C,6,PERCOM,IEEE International Conference on Pervasive Computing and Communications,http://www.percom.org/ 
+人机交互与普适计算,C,7,INTERACT,IFIP TC13 Conference on Human-Computer Interaction,http://www.interact2013.org/Home
+人机交互与普适计算,C,8,CoopIS,International Conference on Cooperative Information Systems,http://www.onthemove-conferences.org/index.php/coopis13
+人机交互与普适计算,C,9,ICMI,ACM International Conference on Multimodal Interaction,http://www.acm.org/icmi/2013
+人机交互与普适计算,C,10,IDC,Interaction Design and Children,http://www.idc2013.org/ 
+人机交互与普适计算,C,11,AVI,International Working Conference on Advanced User Interfaces,http://www.avi2012.it/
+人机交互与普适计算,C,12,UIC,IEEE International Conference on Ubiquitous Intelligence and Computing,http://conf.kyusan-u.ac.jp/uic2012/ 
+前沿、交叉与综合,A,1,RTSS,Real-Time Systems Symposium,http://sigchi.org/
+前沿、交叉与综合,B,1,EMSOFT,International Conference on Embedded Software,www.emsoft.org/
+前沿、交叉与综合,B,2,ISMB,International conference on Intelligent Systems for Molecular Biology,http://www.iscb.org/about-ismb
+前沿、交叉与综合,B,3,CogSci,Cognitive Science Society Annual Conference,http://cognitivesciencesociety.org/conference2013/index.html
+前沿、交叉与综合,B,4,RECOMB,International Conference on Research in Computational Molecular Biology,http://recomb.org/
+前沿、交叉与综合,B,5,BIBM,IEEE International Conference on Bioinformatics and Biomedicine,http://www.ischool.drexel.edu/ieeebibm/bibm12/IEEE-BIBM2012-CFP.htm
+前沿、交叉与综合,C,1,AMIA,American Medical Informatics Association Annual Symposium,http://www.amia.org/amia2013 
+前沿、交叉与综合,C,2,APBC,Asia Pacific Bioinformatics Conference,http://www.apbc2013.org/
+前沿、交叉与综合,C,3,COSIT,International Conference on Spatial Information Theory,http://www.cosit.info/
