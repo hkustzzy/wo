@@ -14,16 +14,16 @@ print sys.getdefaultencoding()
 class Wo(BaseSpider):
     name = "test"
     allowed_domains = ["ccf.org.cn"]
-    start_urls = ["http://www.ccf.org.cn/sites/ccf/biaodan.jsp?contentId=2567814757416",
+    start_urls = [#"http://www.ccf.org.cn/sites/ccf/biaodan.jsp?contentId=2567814757416",
                   #"http://www.ccf.org.cn/sites/ccf/biaodan.jsp?contentId=2567814757420",
-                  #"http://www.ccf.org.cn/sites/ccf/biaodan.jsp?contentId=2567814757428",
-                  #"http://www.ccf.org.cn/sites/ccf/biaodan.jsp?contentId=2567814757404",
-                  #"http://www.ccf.org.cn/sites/ccf/biaodan.jsp?contentId=2567518742937",
-                  #"http://www.ccf.org.cn/sites/ccf/biaodan.jsp?contentId=2567814757408",
-                  #"http://www.ccf.org.cn/sites/ccf/biaodan.jsp?contentId=2567814757424",
-                  #"http://www.ccf.org.cn/sites/ccf/biaodan.jsp?contentId=2567814757412",
-                  #"http://www.ccf.org.cn/sites/ccf/biaodan.jsp?contentId=2624633320934",
-                  #"http://www.ccf.org.cn/sites/ccf/biaodan.jsp?contentId=2567814757432"
+                  "http://www.ccf.org.cn/sites/ccf/biaodan.jsp?contentId=2567814757428",
+                  "http://www.ccf.org.cn/sites/ccf/biaodan.jsp?contentId=2567814757404",
+                  "http://www.ccf.org.cn/sites/ccf/biaodan.jsp?contentId=2567518742937",
+                  "http://www.ccf.org.cn/sites/ccf/biaodan.jsp?contentId=2567814757408",
+                  "http://www.ccf.org.cn/sites/ccf/biaodan.jsp?contentId=2567814757424",
+                  "http://www.ccf.org.cn/sites/ccf/biaodan.jsp?contentId=2567814757412",
+                  "http://www.ccf.org.cn/sites/ccf/biaodan.jsp?contentId=2624633320934",
+                  "http://www.ccf.org.cn/sites/ccf/biaodan.jsp?contentId=2567814757432"
                   ]
 
 
@@ -41,8 +41,61 @@ class Wo(BaseSpider):
         print isinstance(category[0], unicode)
         print category[0]
 
+        lei = x.xpath('//table[@width="850"]')
+        print len(lei)
+        j = 0
+        for t in lei:
+
+            j = j + 1
+            if j <= 3:
+                continue
+
+            i = 0
+            tr = t.xpath('.//tbody/tr')
+            print len(tr)
+            for ti in tr:
+                if i == 0:
+                    i = i + 1
+                    continue
+                item = WoItem()
+
+                tii = ti.xpath('.//td[1]/*/text()').extract()
+                if len(tii) <= 0:
+                    tii = ti.xpath('.//td[1]/text()').extract()
+
+                print tii[0]
+                item['ranking'] = tii[0]
+                item['category'] = category[0]
+                item['level'] = str(j - 3)
+
+                name = ti.xpath('.//td[2]/*/text()').extract()
+                if len(name) <= 0:
+                    name = ti.xpath('.//td[2]/text()').extract()
+
+                print name[0]
+                item['name'] = name[0]
+
+                fullname = ti.xpath('.//td[3]/*/text()').extract()
+                if len(fullname) <= 0:
+                    fullname = ti.xpath('.//td[3]/text()').extract()
+
+                print "".join(itertools.chain(*fullname))
+                item['fullname'] = "".join(itertools.chain(*fullname))
+
+                url = ti.xpath('.//td[5]/*/a/@href').extract()
+                if len(url) <= 0:
+                    url = ti.xpath('.//td[5]/a/@href').extract()
+                print url[0]
+                item['url'] = url[0]
+
+                items.append(item)
+        return items
+
+
+
+        """
         i = 0
-        lei = x.xpath('//table[1][@width="850"]/tbody/tr')
+        lei = x.xpath('//table[4][@width="850"]/tbody/tr')
         print len(lei)
 
         for ti in lei:
@@ -210,7 +263,7 @@ class Wo(BaseSpider):
 
         #open(filename, 'wb').write(item)
         return items
-
+        """
     """
         strlist = x.select("//h1/@title").extract()
         if len(strlist) > 0:

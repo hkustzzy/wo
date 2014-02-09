@@ -11,8 +11,8 @@ BOT_NAME = 'wo'
 SPIDER_MODULES = ['wo.spiders']
 NEWSPIDER_MODULE = 'wo.spiders'
 
-#ITEM_PIPELINES = [
-#    'wo.pipelines.WoPipeline']
+ITEM_PIPELINES = [
+    'wo.pipelines.WoPipeline']
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'wo (+http://www.yourdomain.com)'

@@ -19,6 +19,6 @@ class WoPipeline(object):
         #self.file.write(line)
         #return item
         self.file.write(str(item['level']) + "\t" + item['ranking'] + '\t' + item['name'] + '\t' +
-                        "".join(item['fullname'].split()) + "\t"
+                        "".join(item['fullname'].split()).strip() + "\t"
                         + item['url'] + '\t' + item['category'] + '\n')
         #item['category'].decode['ascii'].encode['utf8']
